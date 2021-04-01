@@ -33,3 +33,4 @@ build/
 .vscode/
 
 env_var.txt
+log/
